@@ -1,6 +1,6 @@
 # Portfolio
 
-![WebPreview](Screenshot 2021-09-05 025852.png?raw=true)
+![WebPreview](Screenshot.png?raw=true)
 
 
 ## About
