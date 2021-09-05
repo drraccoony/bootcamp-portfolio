@@ -1,5 +1,8 @@
 # Portfolio
 
+![WebPreview](Screenshot 2021-09-05 025852.png?raw=true)
+
+
 ## About
 This is a static portfolio page taking advantage of advanced CSS Elements, and (some degree) of responsive layouts.
 
